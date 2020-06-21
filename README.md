@@ -4,6 +4,7 @@
 from multilateration import multilateration
 
 # ((latitude,longitude), distance(in km))
+# Support more then three points
 datas = [
 ((25.0664615,121.5549009), 2.23),
 ((25.0336862,121.5648103), 3.14),
