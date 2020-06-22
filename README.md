@@ -1,6 +1,6 @@
 # Simple multilateration for WGS84 (latitude, longitude)
 ## Usage:
-```language=python
+```python
 from multilateration import multilateration
 
 # ((latitude,longitude), distance(in km))
